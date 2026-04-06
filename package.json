@@ -1,0 +1,10 @@
+{
+  "name": "ClientFinder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend": "npm run --prefix frontend start",
+    "backend": "npm run --prefix backend start"
+  },
+  "devDependencies": {}
+}
